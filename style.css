@@ -73,13 +73,13 @@ iframe {
   }
 }
 
-  ul {
+  .involved ul {
   list-style-type: none;
   margin: 0 auto;
  text-decoration: none;
 }
 
-li {
+.involved li {
   display: inline;
   margin-right: 16px;
   padding: 14px;
@@ -87,10 +87,10 @@ li {
   text-decoration: none;
 }
   
-  li a:hover {
+  .involved li a:hover {
   color: white;
   }
   
-  li a:visited {
+ .involved li a:visited {
   text-decoration: none;
   }

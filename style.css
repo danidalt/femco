@@ -72,3 +72,25 @@ iframe {
     border: 1px solid #ccc;
   }
 }
+
+  ul {
+  list-style-type: none;
+  margin: 0 auto;
+ text-decoration: none;
+}
+
+li {
+  display: inline;
+  margin: 0 auto;
+  padding: 14px;
+  width: 100%;
+  text-decoration: none;
+}
+  
+  li a:hover {
+  color: white;
+  }
+  
+  li a:visited {
+  text-decoration: none;
+  }

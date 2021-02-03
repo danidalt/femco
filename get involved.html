@@ -9,7 +9,7 @@
 </head>
 <link rel="stylesheet" href="style.css">
 <style>
-    
+     @media only screen and (min-width: 1000px) { 
        button {
         text-align: center;
         font-size: 30px;
@@ -44,7 +44,45 @@
 
    iframe
     { style:block;
-      margin: 10px auto;}
+      margin: 10px auto;
+       width=800px;
+       height=600px;  }
+    }
+    
+    
+   @media only screen and (max-width: 810px) { 
+       button {
+        text-align: center;
+        font-size: 30px;
+        border-radius: 25px;
+        padding: 15px 30px;  
+        background:red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); /* Standard syntax (must be last) */ ;
+        text-decoration: none;
+        display: block;
+        cursor: pointer;
+        margin: 0 auto;
+        text-decoration: none;
+        border: none;
+        font-style: italic;
+        color: black;
+    }
+
+   a:link
+   {text-decoration: none;} 
+   
+   a :visited 
+    { text-decoration: none;}
+
+   iframe
+    { style:block;
+      margin: 10px auto;
+       height: 300px;
+       width: 200px;}
+    }
 </style>
 
 <body>
@@ -78,7 +116,7 @@
      Check our our leadership page to learn more. Thanks!
 </p>
 
-    <iframe src="https://calendar.google.com/calendar/embed?src=c_v0cvbipq82nra97c0u6ujb36qs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?src=c_v0cvbipq82nra97c0u6ujb36qs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0"  frameborder="0" scrolling="no"></iframe>
   
     
      <img src="https://media.giphy.com/media/XDSBGwnjvTpoZGJhxY/giphy.gif"> 

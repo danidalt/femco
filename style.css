@@ -4,7 +4,7 @@
   background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
 }
 
-img {
+img.header {
   display: block;
   margin: 0 auto;
 }
@@ -104,7 +104,7 @@ iframe {
   background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
 }
     
-img {
+img.header {
   display: block;
  width: 350px;
     height:100px;

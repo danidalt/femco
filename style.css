@@ -8,6 +8,19 @@ img {
   display: block;
   margin: 0 auto;
 }
+  
+  h1 {
+     color: white;
+     text-align: center;
+}
+
+p.words {
+            text-align: justify;
+              display: block;
+             font-size: 18px;
+             text-indent: 2.0em;                                    
+             margin: 15px 200px;
+        }
 
 .coded {
   text-align: center;
@@ -98,7 +111,19 @@ img {
     margin-left: auto;
   margin-right: auto;
 }
+h1 {
+     color: white;
+     text-align: center;
+ font-size: 15px;
+}
 
+p.words {
+            text-align: justify;
+              display: block;
+             font-size: 12px;
+             text-indent: 2.0em;                                    
+             margin: 5px 20px;
+        }
 .coded {
   text-align: center;
   color: palevioletred;

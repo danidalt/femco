@@ -163,7 +163,7 @@ p.words {
  font-size: 10px; 
   }
 
-  li.involved   {
+ .involved li {
   text-align: center;
   display: block;
   padding: 4px;
@@ -174,12 +174,12 @@ p.words {
    text-decoration: none;
     }
   
-  ul.involved a:visted{
+  .involved a:visted {
   text-decoration: none;
   color:white;
   }
   
-  ul.involved a:link {
+  .involved a:link {
   text-decoration: none;
   color: white;
   }

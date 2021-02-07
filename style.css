@@ -173,8 +173,8 @@ p.words {
   text-decoration: none;
   }
     
-    ul.involved {
-    list-style-type: none;
+    li.involved {
+    list-style: none;
      text-decoration: none;
  }
   }

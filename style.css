@@ -161,6 +161,7 @@ p.words {
   border: none;
   margin-top: 8px;
  font-size: 10px; 
+  }
 
   li.involved   {
   text-align: center;
@@ -173,15 +174,4 @@ p.words {
    text-decoration: none;
     }
   
-  .involved a:link {
-  text-decoration:none;
-  }
-  
- .involved a:visited {
-  text-decoration: none; }
-  
-  .involved a:hover {
-   text-decoration:none;
-  color: white;
-  }
   }

@@ -170,6 +170,7 @@ p.words {
   margin-left: auto;
   margin-right: auto;
   font-size:10px;
+   text-decoration: none;
     }
   
   .involved a:link {

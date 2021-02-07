@@ -174,4 +174,14 @@ p.words {
    text-decoration: none;
     }
   
+  involved a:visted{
+  text-decoration: none;
+  color:white;
+  }
+  
+  involved a:link {
+  text-decoration: none;
+  color: white;
+  }
+  
   }

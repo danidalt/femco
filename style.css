@@ -162,7 +162,7 @@ p.words {
   margin-top: 8px;
  font-size: 10px; }
 
-  .involved li  {
+  li.involved   {
   text-align: center;
   display: block;
   padding: 4px;

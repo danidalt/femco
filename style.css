@@ -149,6 +149,11 @@ p.words {
   text-decoration: none;
   font-size: 10px;
 }
+  
+  .topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
 
 .topnav input[type="text"] {
   float: right;

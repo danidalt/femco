@@ -94,11 +94,6 @@ iframe {
    text-decoration:none;
   color: white;
   }
-
-  .involved a:active {
-   text-decoration:none;
-   color: white;
-  }
 }
 
  @media only screen and (max-width: 810px) {
@@ -182,9 +177,6 @@ p.words {
   .involved a:hover {
    text-decoration:none;
   color: white;
-  }
 
-  .involved a:active {
-   text-decoration:none;
   }
   }

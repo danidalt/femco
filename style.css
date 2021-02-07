@@ -160,7 +160,7 @@ p.words {
   padding: 6px;
   border: none;
   margin-top: 8px;
- font-size: 10px; }
+ font-size: 10px; 
 
   li.involved   {
   text-align: center;
@@ -184,6 +184,4 @@ p.words {
    text-decoration:none;
   color: white;
   }
-  
   }
-}

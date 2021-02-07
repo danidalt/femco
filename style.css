@@ -73,7 +73,7 @@ iframe {
   font-size: 17px;
 }
 
-.involved  li {
+.involved li {
   text-align: center;
   display: inline;
   padding: 14px;
@@ -83,12 +83,20 @@ iframe {
   margin: 0 auto;
 }
   
-  .involved li a:hover {
-  color: white;
+  .involved a:link {
+  text-decoration:none;
   }
   
- .involved li a:visited {
+ .involved a:visited {
   text-decoration: none;
+  
+  .involved a:hover {
+   text-decoration:none;
+  color: white;
+  }
+
+  involved a:active {
+   text-decoration:none;
   }
 }
 
@@ -163,19 +171,19 @@ p.words {
   font-size:10px;
     }
   
- li  a:visited {
-  text-decoration: none;
+  .involved a:link {
+  text-decoration:none;
   }
- 
-    li{
-    list-style: none;
-     text-decoration: none;
- }
- involved  a:link {
-         color: white;
-         }
-         
-    involved  a:visted {
-            color: white;
- }
+  
+ .involved a:visited {
+  text-decoration: none;
+  
+  .involved a:hover {
+   text-decoration:none;
+  color: white;
+  }
+
+  involved a:active {
+   text-decoration:none;
+  }
   }

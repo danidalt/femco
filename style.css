@@ -170,7 +170,7 @@ p.words {
 
  .involved li {
   text-align: center;
-  display: inline;
+  display: block;
   padding: 4px;
   width: 100%;
   margin-left: auto;

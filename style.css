@@ -191,5 +191,7 @@ p.words {
   text-decoration: none;
   color: white;
   }
-  
+   ul.involved {
+             padding-inline-start: 0px;
+         }
   }

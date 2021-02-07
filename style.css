@@ -139,6 +139,11 @@ p.words {
   margin: 0px auto;
   display: block;
 }
+  
+  .gif {
+   margin: 0px auto;
+   display: block;
+  }
 
 .topnav {
   overflow: hidden;

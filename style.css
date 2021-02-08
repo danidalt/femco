@@ -85,10 +85,13 @@ iframe {
   
   .involved a:link {
   text-decoration:none;
+   color:white;
   }
   
  .involved a:visited {
-  text-decoration: none; }
+  text-decoration: none;
+  color: white;
+  }
   
   .involved a:hover {
    text-decoration:none;

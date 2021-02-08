@@ -75,7 +75,7 @@ iframe {
 
 .involved li {
   text-align: justify;
-  display: inline;
+  display: inline-block;
   width: 100%;
  padding: 25px;
   text-decoration: none;

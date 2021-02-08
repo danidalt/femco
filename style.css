@@ -74,12 +74,13 @@ iframe {
 }
 
 .involved li {
-  text-align: justify;
+  text-align: center;
   display: block;
   width: 100%;
   text-decoration: none;
    list-style: none;
   margin: 0 auto;
+ font-size: 14px;
 }
   
   .involved a:link {

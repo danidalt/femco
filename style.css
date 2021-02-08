@@ -74,7 +74,7 @@ iframe {
 }
 
 .involved li {
-  text-align: center;
+  text-align: justify;
   display: inline;
   padding: 14px;
   width: 100%;
@@ -85,12 +85,12 @@ iframe {
   
   .involved a:link {
   text-decoration:none;
-   color:white;
+   color:orange;
   }
   
  .involved a:visited {
   text-decoration: none;
-  color: white;
+  color: orange;
   }
   
   .involved a:hover {

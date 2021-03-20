@@ -1,2 +1,2 @@
 # femco
-This code is for a website to promote a club at nc state university. The code is not correct at the moment.. the links and photos do not work. If you have any recomendations as to why please let me know! Thanks
+This code is for a website to promote a club at nc state university. The master branch is the final version that was uploaded for 'ncstatefemcol.com'. My reactive design could be organized better. This was my first website from scratch. Took about 3 months doing it in my freetime.
